@@ -28033,6 +28033,7 @@ https://extended.dns.mullvad.net/dns-query
 [/dcyz.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dcyzq.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dczcsc.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/dczcy.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dczkj.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dczy168.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dd-advisor.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -29019,6 +29020,7 @@ https://extended.dns.mullvad.net/dns-query
 [/didichuxing.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dididapiao.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/dididi88.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/didifinance.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/didiglobal.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/didimobility.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/didiopenapi.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -35817,6 +35819,7 @@ https://extended.dns.mullvad.net/dns-query
 [/fuca-china.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/fucantec.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/fuchaipower.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/fuchenkj.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/fuchuangyu.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/fucnm.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/fucol.club/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -53593,6 +53596,7 @@ https://extended.dns.mullvad.net/dns-query
 [/jieshui8.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/jieshuitech.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/jieshuwang.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/jietianz.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/jietu365.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/jietuhb.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/jietuosh.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -79333,6 +79337,7 @@ https://extended.dns.mullvad.net/dns-query
 [/sdseshealth.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/sdsfjy.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/sdshangya.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/sdshdc.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/sdshgk.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/sdshihua.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/sdshitu.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -81017,6 +81022,7 @@ https://extended.dns.mullvad.net/dns-query
 [/shicaizhanlan.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/shicehao.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/shichangbu.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/shicheng6.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/shichengbao.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/shichengyi.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/shichuangsj.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -91443,6 +91449,7 @@ https://extended.dns.mullvad.net/dns-query
 [/ulikestatic.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/ulinix.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/ulinix.tv/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/ulongemg.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/ulpay.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/ultracachenode.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/ultraeda.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
@@ -106203,6 +106210,7 @@ https://extended.dns.mullvad.net/dns-query
 [/yximgs.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/yxin18.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/yxinbao.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
+[/yxingfan.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/yxintent.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/yxit.net/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
 [/yxixy.com/]h3://dns.alidns.com/dns-query quic://dns.alidns.com https://doh.pub/dns-query
